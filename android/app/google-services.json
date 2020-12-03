@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075856012693",
+    "firebase_url": "https://relaxify-bc5fb.firebaseio.com",
+    "project_id": "relaxify-bc5fb",
+    "storage_bucket": "relaxify-bc5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075856012693:android:6aaccf49e01878b9ce729c",
+        "android_client_info": {
+          "package_name": "com.example.relaxify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075856012693-l29n6al8bkcn5gjkcfa1lbv2nl2t9iec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.relaxify",
+            "certificate_hash": "8cdb1fa7a7e6597b7cf168cc28a6b410dde6af95"
+          }
+        },
+        {
+          "client_id": "1075856012693-3ma6fkmhoii10jmdgbs6fhgjs55so125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXG4K6NHuFZWvM-MGBYThk1P9q7t3T1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075856012693-3ma6fkmhoii10jmdgbs6fhgjs55so125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
